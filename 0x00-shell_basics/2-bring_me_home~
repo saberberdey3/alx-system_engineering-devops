@@ -1,9 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
-cd $(echo ~)
-=======
 cd $HOME
-
-
-
->>>>>>> 66bb373 (Home_update)
