@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -apv1 | paste -sd "," - 
