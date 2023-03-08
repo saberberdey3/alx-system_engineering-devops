@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -al . 2>/dev/null ls -al .. 2>/dev/null ls -al /boot 2>/dev/null
